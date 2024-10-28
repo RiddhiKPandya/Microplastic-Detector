@@ -1,1 +1,1 @@
-Designed an affordable, compact microplastic detector using a Raspberry Pi, camera module, UV light, turbidity sensor, and Arduino. It detects microplastics by analyzing changes in light intensity and then comparing them to a predefined dataset using OpenCV.
+Designed an affordable, compact microplastic detector using a Raspberry Pi, camera module, UV light, turbidity sensor, magnifying lens and Arduino. It detects microplastics by analyzing changes in light intensity and then comparing them to a predefined dataset using OpenCV.
